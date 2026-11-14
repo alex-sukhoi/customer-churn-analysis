@@ -1,0 +1,6 @@
+"metric","value"
+"AUC train",0.769
+"AUC test",0.782
+"Brier score test",0.177
+"Top-decile lift (test)",2.26
+"Share of churners in top 30% (test)",0.551

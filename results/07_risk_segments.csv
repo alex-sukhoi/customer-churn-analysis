@@ -1,0 +1,4 @@
+"risk","customers","churned","churn_rate_pct","expected_lost_revenue_month","share_of_revenue_at_risk_pct"
+"Low",1455,132,9.1,6322,5.1
+"Medium",1659,425,25.6,22010,17.6
+"High",2886,1566,54.3,96450,77.3

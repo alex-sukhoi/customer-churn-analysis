@@ -1,0 +1,13 @@
+"variable","level","customers","churn_rate_pct"
+"contract","Month-to-month",3264,50.6
+"contract","One year",1514,21.9
+"contract","Two year",1222,11.5
+"internet","DSL",2064,26.5
+"internet","Fiber",2787,46.3
+"internet","None",1149,24.9
+"tech_support","0",4266,37.5
+"tech_support","1",1734,30.2
+"auto_pay","0",3340,39.5
+"auto_pay","1",2660,30.2
+"senior","0",5058,34.8
+"senior","1",942,38.3

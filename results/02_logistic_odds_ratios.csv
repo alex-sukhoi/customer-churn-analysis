@@ -1,0 +1,10 @@
+"term","odds_ratio","ci_low","ci_high","p"
+"contractOne year",0.23,0.192,0.275,7.83e-58
+"contractTwo year",0.126,0.101,0.158,1.28e-71
+"internetFiber",1.257,0.899,1.758,0.181
+"internetNone",1.558,1.082,2.244,0.0172
+"tech_support",0.495,0.406,0.602,2.64e-12
+"auto_pay",0.597,0.517,0.69,2.36e-12
+"senior",1.165,0.959,1.414,0.123
+"monthly_charges",1.026,1.014,1.038,2.44e-05
+"support_tickets_6m",1.33,1.234,1.434,7.82e-14
